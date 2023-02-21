@@ -1,0 +1,22 @@
+//Cores usadas no site
+@import "./colors/colors.scss";
+
+//estilização do menu inicial
+@import "./pages/menunav.scss";
+
+//Galeria
+@import "./pages/galeria.scss";
+
+//nascimento da empresa
+@import "./pages/empresa.scss";
+
+//missão / visão / valores
+@import "./pages/mvv.scss";
+
+//final da pagina
+@import "./pages/footer.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+}
